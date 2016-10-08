@@ -1,0 +1,6 @@
+@media(max-width: 250px){
+	.img-repsonsive{
+		max-width: 50%;
+		min-width: 500px;
+	}
+}
